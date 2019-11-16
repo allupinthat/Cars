@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SSetupData>
+  <deviceName>dlc_firebird77</deviceName>
+  <datFile>content.xml</datFile>
+  <timeStamp>12/11/2015 23:12:00</timeStamp>
+  <nameHash>firebird77</nameHash>
+  <contentChangeSetGroups>
+    <Item>
+      <NameHash>GROUP_STARTUP</NameHash>
+      <ContentChangeSets>
+        <Item>firebird77_AUTOGEN</Item>
+        <Item>firebird77_UNLOCKS_AUTOGEN</Item>
+      </ContentChangeSets>
+    </Item>
+  </contentChangeSetGroups>
+  <type>EXTRACONTENT_COMPAT_PACK</type>
+  <order value="59" />  
+</SSetupData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SSetupData>
+  <deviceName>dlc_bmwm1procar</deviceName>
+  <datFile>content.xml</datFile>
+  <timeStamp>29/12/2015 00:00:00</timeStamp>
+  <nameHash>bmwm1procar</nameHash>
+  <contentChangeSetGroups>
+    <Item>
+      <NameHash>GROUP_STARTUP</NameHash>
+      <ContentChangeSets>
+        <Item>BMWM1PROCAR_AUTOGEN</Item>
+		<Item platform="ps4|xboxone">BMWM1PROCAR_PLATFORM_SPECS</Item>
+        <Item>BMWM1PROCAR_UNLOCKS_AUTOGEN</Item>
+    <Item>
+      <NameHash>GROUP_ON_DEMAND</NameHash>
+      <ContentChangeSets>
+        <Item>BMWM1PROCAR_ANIM_OVERLAYS</Item>
+      </ContentChangeSets>
+    </Item>	
+      </ContentChangeSets>
+    </Item>
+  </contentChangeSetGroups>
+  <type>EXTRACONTENT_COMPAT_PACK</type>
+  <order value="13" />  
+</SSetupData>
